@@ -1,0 +1,164 @@
+body {
+  background-color: #1B1B25;
+}
+
+.container {
+  margin-right: auto;
+  margin-left:  auto;
+  max-width: 960px; 
+  padding-right: 10px; 
+  padding-left:  10px; 
+}
+.header-end {
+  width: 65%;
+}
+h1 {
+  text-align: center;
+  color: gray;
+}
+
+.contact {
+  margin-left: 70%;
+}
+
+.header h2 {
+  color: grey;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.link {
+  color: gray;
+  text-decoration: none;
+}
+
+.main {
+  color: gray;
+}
+
+table, th, td {
+  border: 1px solid gray;
+  color: gray;
+  max-width: 50%;
+}
+
+table {
+  width: 300px;
+  margin-left: 35%;
+}
+
+.div-about {
+  color: gray;
+  display: -webkit-box;
+}
+
+.about-title {
+  color: gray;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 5px;
+}
+
+.div-about p {
+  width: 480px;
+  margin-left: 50px;
+  margin-top: 0px;
+}
+
+img {
+  margin-left: 50px;
+  margin-top: 0px;
+  width: 320px;
+  float: left;
+}
+
+.work-experience-header2 {
+  color: grey;
+  text-align: center;
+  margin-bottom: 0px;
+}
+
+.work-experience-paragrapf {
+  color: gray;
+}
+
+.work-experience-header5 {
+  color: grey;
+  text-align: center;
+  margin-top: 0px;
+}
+
+.body-end {
+  margin-top: 28px;
+  width: 65%;
+  margin-bottom: 110px;
+}
+
+.description-end {
+  background-color: gray;
+  height: 1px;
+  border: 0;
+  margin-top: 20px;
+  margin-bottom: 0px;
+}
+
+.skill-end {
+  background-color: gray;
+  height: 1px;
+  border: 0;
+  margin-top: 20px;
+  margin-bottom: 0px;
+}
+
+.about-end {
+  background-color: gray;
+  height: 1px;
+  border: 0;
+  margin-top: 20px;
+  margin-bottom: 0px;
+}
+
+.my-motivation h2 {
+  color: grey;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.my-motivation p {
+  color: grey;
+}
+
+.work-experience-end {
+  background-color: gray;
+  height: 1px;
+  border: 0;
+  margin-top: 20px;
+  margin-bottom: 0px;
+}
+
+.footer h4 {
+  text-align: center;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.my-information {
+  text-align: center;
+}
+
+.links {
+  text-align: center;
+}
+
+.footer {
+  background-color: #1B1B25;
+  position: fixed;
+	bottom: 0;
+	width: 960px;
+  color: gray;
+}
+
+.footer p {
+  margin-top: 0px;
+  margin-bottom: 5px;
+}
